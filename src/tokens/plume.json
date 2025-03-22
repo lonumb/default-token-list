@@ -1,10 +1,10 @@
 [
   {
     "chainId": 98865,
-    "symbol": "WETH",
-    "name": "Wrapped Ether",
-    "address": "0x626613B473F7eF65747967017C11225436EFaEd7",
-    "logoURI": "BASE_URL/assets/weth.svg",
+    "symbol": "WPLUME",
+    "name": "Wrapped Plume",
+    "address": "0xEa237441c92CAe6FC17Caaf9a7acB3f953be4bd1",
+    "logoURI": "BASE_URL/assets/plume.svg",
     "decimals": 18,
     "isWNative": true,
     "common": true,
