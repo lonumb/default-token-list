@@ -1,6 +1,16 @@
 [
   {
     "chainId": 42161,
+    "symbol": "FDUSD",
+    "name": "First Digital USD",
+    "address": "0x93C9932E4afa59201F0B5E63f7d816516F1669fE",
+    "logoURI": "BASE_URL/assets/fdusd.svg",
+    "decimals": 18,
+    "quote": "derived_stable"
+  
+  },
+  {
+    "chainId": 42161,
     "symbol": "WETH",
     "name": "Wrapped ETH",
     "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
