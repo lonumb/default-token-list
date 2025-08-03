@@ -2304,5 +2304,14 @@
     "logoURI": "BASE_URL/assets/rezerve.png",
     "decimals": 18,
     "quote": "other"
+  },
+  {
+    "chainId": 42161,
+    "symbol": "T",
+    "name": "Talos",
+    "address": "0x30a538eFFD91ACeFb1b12CE9Bc0074eD18c9dFc9",
+    "logoURI": "BASE_URL/assets/t.png",
+    "decimals": 9,
+    "quote": "other"
   }
 ]
